@@ -1,1 +1,2 @@
-edited in newfeature branch.
+Edited in newfeature branch.
+this is to be appended to the file
