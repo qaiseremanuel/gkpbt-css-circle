@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this empty file, but now edited in the feature branch.
+=======
+this is being edited in newfeature branch.
+>>>>>>> newfeatures
